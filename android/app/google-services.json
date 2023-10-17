@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813888566910",
+    "project_id": "primatepulse-b240a",
+    "storage_bucket": "primatepulse-b240a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813888566910:android:96ea15fe84f39f38c48a2f",
+        "android_client_info": {
+          "package_name": "com.example.final_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2hxKsgGHAmGjGIDJWmvPLgtCGeex4XEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
